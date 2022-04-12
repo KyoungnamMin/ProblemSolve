@@ -32,4 +32,5 @@ def solution():
         print(binary_search(N, x))
 
 
-solution()
+if __name__ == "__main__":
+    solution()
